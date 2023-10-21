@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "marvel.characters.api", "marvel.characters.api.csproj", "{AE53647D-CF2B-4621-A3A6-723C8AE29E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE53647D-CF2B-4621-A3A6-723C8AE29E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE53647D-CF2B-4621-A3A6-723C8AE29E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE53647D-CF2B-4621-A3A6-723C8AE29E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE53647D-CF2B-4621-A3A6-723C8AE29E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E51243E6-8BA8-4132-A94F-8EEDBFB39CA5}
+	EndGlobalSection
+EndGlobal
